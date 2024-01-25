@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="#introduction">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#execution">Execution</a>
 </p>
 
 ## Introduction
-That project aims to reinforce the basic concepts leaned in my first module of a Python course.
-Here we have a simple project executed via command line, simulating a contact schedule.
+This project aims to reinforce the basic concepts learned in my first module of a Python course.
+Here we have a simple project executed via the command line, simulating a contact schedule.
 
 ## Execution
 1. Check if you have the Python install in your machine(I used the python `3.11.5`)
